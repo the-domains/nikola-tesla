@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nikola Tesla]]></title>
+        <description><![CDATA[Nikola Tesla]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 15:32:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Right Mind. Wrong Time.]]></title>
+            <description><![CDATA[<article><h1>Right Mind. Wrong Time.</h1><p>You've probably heard of Nikola Tesla. </p></article>]]></description>
+            <link>undefinedright-mind-wrong-time/index.html</link>
+            <guid isPermaLink="false">fd8493ca-b8c9-4034-abe7-3c8e5f9f462e</guid>
+            <pubDate>Mon, 04 Apr 2016 15:32:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
