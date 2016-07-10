@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'You''ve probably heard of Nikola Tesla. '
-datePublished: '2016-07-10T06:01:24.555Z'
-dateModified: '2016-07-10T06:01:15.422Z'
+datePublished: '2016-07-10T06:54:50.155Z'
+dateModified: '2016-07-10T06:54:24.862Z'
 title: Right Mind. Wrong Time.
 author: []
 sourcePath: _posts/2016-04-04-right-mind-wrong-time.md
@@ -51,12 +51,11 @@ OR
 
 You're just going to move aside? and let the next wanderer probably your great great great great grandchildren to stumble upon this secret decades from now, in hopes that he would thrive better later than now? 
 
-Like any story worth exploring, should you realise him right here, right now? 
+Like any story worth exploring, should you release him right here, right now? 
 
-Lets take a step back, who gives you the right to do so? What happens if was suppose to be ONLY awaken 100 years from now? is right now the best decision for him to thrive? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0598ae2-0369-4dd6-b553-b7625abb8be0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83df30b6-781b-4a2a-9331-c31baec0dd7f.jpg)
+Lets take a step back. Who gives you the right to do so? What happens if he was suppose to be ONLY awaken 100 years from now? is right now the best decision for him to thrive? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0598ae2-0369-4dd6-b553-b7625abb8be0.jpg)
 
-Knowing all this, will still open the chamber? With so many variables in place? Are you really in the sane mind to make this decision? If so, who's going to own up the regrets that comes after? 
+Knowing all this, will you still open the chamber? With so many variables in place? Are you really in the sane mind to make this decision? If so, who's going to own up the regrets that comes after? 
 
 Or simply put. what happens if you're wrong again? 
 
