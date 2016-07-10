@@ -6,18 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: "You've probably heard of Nikola Tesla.\_"
-datePublished: '2016-04-04T15:32:09.289Z'
-dateModified: '2016-04-04T15:32:03.992Z'
+datePublished: '2016-07-10T05:14:50.444Z'
+dateModified: '2016-04-04T15:43:01.797Z'
 title: Right Mind. Wrong Time.
 author: []
+sourcePath: _posts/2016-04-04-right-mind-wrong-time.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-right-mind-wrong-time.md
-published: true
 url: right-mind-wrong-time/index.html
 _type: Article
 
@@ -38,6 +37,9 @@ We\`re here on a journey to explore Nikola Tesla, who was suppose to bring FREE 
 
 Was he a man born with the right mind? Or was he way out of his league? Was his genius seen as some sort of sorcery which led to his outcast? 
 
-Ultimately, we're here to discuss if Tesla at this day and age will led into a different ending or the society would simply brand him as another lunatic? Would time even made a difference? Even with the right mind? (Vice versa)    
+Ultimately, we're here to discuss if Tesla at this day and age will led into a different ending or the society would simply brand him as another lunatic? Would time even made a difference? Even with the right mind? (Vice versa) 
+
+# Right Here. Wrong Again.
+
 
 [0]: http://theoatmeal.com/comics/tesla
